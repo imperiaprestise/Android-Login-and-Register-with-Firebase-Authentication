@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/development/AppChat/app/src/main/res/layout/activity_login_screen.xml" value="0.14666666666666667" />
+        <entry key="..\:/development/AppChat/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/development/AppChat/app/src/main/res/layout/activity_register.xml" value="0.1796875" />
+        <entry key="..\:/development/AppChat/app/src/main/res/layout/activity_splash_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/development/AppChat/app/src/main/res/layout/activity_splash_screenn.xml" value="0.1796875" />
+        <entry key="..\:/development/AppChat/app/src/main/res/layout/fragment_camera.xml" value="0.10235507246376811" />
+        <entry key="..\:/development/AppChat/app/src/main/res/layout/fragment_chat.xml" value="0.1" />
+        <entry key="..\:/development/AppChat/app/src/main/res/layout/fragment_chat2.xml" value="0.1" />
+        <entry key="..\:/development/AppChat/app/src/main/res/layout/fragment_story.xml" value="0.1" />
+        <entry key="..\:/development/AppChat/app/src/main/res/menu/bottom_nav.xml" value="0.10104166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
