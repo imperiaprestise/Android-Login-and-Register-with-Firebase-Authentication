@@ -12,11 +12,12 @@ This project include Splash Screen, Main Activity (Fragment Chat, Camera and Sto
  - [Fragment Chat, Camera, Story](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Activity looks similar to : 
-![Alt text](output_ss/RegistrationPage.png?raw=true "RegisterActivity")
-![Alt text](output_ss/loginPage.png?raw=true "LoginActivity")
-![Alt text](output_ss/HomePage.png?raw=true "HomeActivity")
-![Alt text](output_ss/loginPage.png?raw=true "LoginActivity")
-![Alt text](output_ss/HomePage.png?raw=true "HomeActivity")
+![Alt text](output/splashscreen.jpeg "SplashScreen")
+![Alt text](output/loginscreen.jpeg "LoginActivity")
+![Alt text](output/registerscreen.jpeg "RegisterActivty")
+![Alt text](output/fragment_chat.jpeg "FragmentChat")
+![Alt text](output/fragmentcamera.jpeg "FragmentCamera")
+[Alt text](output/fragment_story.jpeg "FragmentStory")
 
 ## To connect Firebase to your Android application :
 #### Refer this
