@@ -13,13 +13,15 @@ This project include Splash Screen, Main Activity (Fragment Chat, Camera and Sto
 
 ## Activity looks similar to : 
 <div align="center">
-    <img src="output/splashscreen.jpeg" width="250"/>
-    <img src="output/loginscreen.jpeg" width="250"/>
-    <img src="output/registerscreen.jpeg" width="250"/>
+    <img src="output/splashscreen.jpeg" width="230"/>
+    <img src="output/loginscreen.jpeg" width="230"/>
+    <img src="output/registerscreen.jpeg" width="230"/>
 </div>
-![Alt text](output/fragment_chat.jpeg "FragmentChat")
-![Alt text](output/fragmentcamera.jpeg "FragmentCamera")
-[Alt text](output/fragment_story.jpeg "FragmentStory")
+<div align="center">
+    <img src="output/fragment_chat.jpeg" width="230"/>
+    <img src="output/fragmentcamera.jpeg" width="230"/>
+    <img src="output/fragment_story.jpeg" width="230"/>
+</div>
 
 ## To connect Firebase to your Android application :
 #### Refer this
