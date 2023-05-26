@@ -12,9 +12,11 @@ This project include Splash Screen, Main Activity (Fragment Chat, Camera and Sto
  - [Fragment Chat, Camera, Story](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Activity looks similar to : 
-![Alt text](output/splashscreen.jpeg "SplashScreen")
-![Alt text](output/loginscreen.jpeg "LoginActivity")
-![Alt text](output/registerscreen.jpeg "RegisterActivty")
+<div align="center">
+    <img src="output/splashscreen.jpeg" width="250"/>
+    <img src="output/loginscreen.jpeg" width="250"/>
+    <img src="output/registerscreen.jpeg" width="250"/>
+</div>
 ![Alt text](output/fragment_chat.jpeg "FragmentChat")
 ![Alt text](output/fragmentcamera.jpeg "FragmentCamera")
 [Alt text](output/fragment_story.jpeg "FragmentStory")
